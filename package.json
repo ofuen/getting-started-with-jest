@@ -14,5 +14,10 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "acorn": "^7.1.1",
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.5"
   }
 }
